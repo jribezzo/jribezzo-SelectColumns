@@ -14,7 +14,7 @@ import java.util.List;
  *
  * Let's take a look at the syntax to return an entire table again:
  * SELECT * FROM table_name;
- *
+ * 
  * In the statement above, the * is the wildcard to retrieve all the columns in this specific table.
  * However, we can specify the columns that we want to display by the following syntax:
  * SELECT col_1, col_2, ...col_N FROM table_name;
